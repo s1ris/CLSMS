@@ -1,0 +1,9 @@
+Package: com.s1ris.clsms
+Name: CLSMS
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A command line tool to send an SMS text message. Example usage: clsms "What's up" "+15555555555"
+Maintainer: @s1ris
+Author: @s1ris
+Section: System
